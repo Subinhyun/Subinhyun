@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->   
 
 ![Subinhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subinhyun&show_icons=true)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subinhyun)](https://github.com/anuraghazra/github-readme-stats)
