@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Vue.js-50C785?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 
 <h3>hsooovn 📲 </h3>
-<img src="https://img.shields.io/badge/Instagram-E289D8?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hsooovn/"/></a>
-<img src="https://img.shields.io/badge/Gmail-FF3232?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/"/>
+<a href="https://www.instagram.com/hsooovn" ><img src="https://img.shields.io/badge/Instagram-E289D8?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://mail.google.com" ><img src="https://img.shields.io/badge/Gmail-FF3232?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <h3></h3>
 
