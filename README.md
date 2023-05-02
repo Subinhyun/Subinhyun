@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>Technology Stack 📚</h3>
  <p>Techs that I've used at least once</p>
  
- <p align="center">
+ <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,vue,py,r,pytorch,docker&perline=3&theme=light" />
   </a>
@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 
 </div>
 
-
-![Subinhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subinhyun&show_icons=true&theme=buefy)   
