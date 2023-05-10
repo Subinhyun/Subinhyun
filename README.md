@@ -25,13 +25,3 @@ Here are some ideas to get you started:
  </p>
 
 </div>
-
-<h1 align="center">Hi 👋, I'm Subin Hyun</h1>
-<h3 align="center">A passionate backend developer from Korea</h3>
-
-- 📫 How to reach me **hkhh972123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
